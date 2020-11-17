@@ -1,6 +1,6 @@
 # Transparency, Auditability and eXplainability of Machine Learning Models in Credit Scoring
 
-This repository is a landing page for  the article: Michael Bücker, Gero Szepannek, Alicja Gosiewska, Przemysław Biecek. *Transparency, Auditability and eXplainability of Machine Learning Models in Credit Scoring*. 
+This repository contains a code for the article: Michael Bücker, Gero Szepannek, Alicja Gosiewska, Przemysław Biecek. *Transparency, Auditability and eXplainability of Machine Learning Models in Credit Scoring*. 
 
 
 ## Abstract 
