@@ -30,6 +30,6 @@ In order to cite our work please use the following BiBTeX entry
 
 ## Data
 
-The owner of the data is [FICO xML Challenge](https://community.fico.com/), please downolad it from their website. 
+The owner of the data is [FICO xML Challenge](https://community.fico.com/), please [download](https://community.fico.com/s/explainable-machine-learning-challenge) it from their website. 
 
 For information about train/test splits used in the article splits contact us.
