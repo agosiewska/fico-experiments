@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4277225.svg)](https://doi.org/10.5281/zenodo.4277225)
+
 # Transparency, Auditability and eXplainability of Machine Learning Models in Credit Scoring
 
 This repository contains a code for the article: Michael Bücker, Gero Szepannek, Alicja Gosiewska, Przemysław Biecek. *Transparency, Auditability and eXplainability of Machine Learning Models in Credit Scoring*. 
