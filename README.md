@@ -11,21 +11,27 @@ This repository contains a code for the article: Michael Bücker, Gero Szepannek
  This paper works out different dimensions that have to be considered for making credit scoring models understandable and presents a framework for making “black box” machine learning models transparent, auditable and explainable. Following this framework, we present an overview of techniques, demonstrate how they can be applied in credit scoring and how results compare to the interpretability of score cards. A real world case study shows that a comparable degree of interpretability can be achieved while machine learning techniques keep their ability to improve predictive power.*
 
 
-## Preprint
+## Article
 
-Preprint for this work is avaliable at https://arxiv.org/abs/2009.13384.
+The article for this work is avaliable at https://doi.org/10.1080/01605682.2021.1922098.
 
 In order to cite our work please use the following BiBTeX entry
 
 ```
-@misc{bücker2020transparency,
-      title={Transparency, Auditability and eXplainability of Machine Learning Models in Credit Scoring}, 
-      author={Michael Bücker and Gero Szepannek and Alicja Gosiewska and Przemyslaw Biecek},
-      year={2020},
-      eprint={2009.13384},
-      archivePrefix={arXiv},
-      url={https://arxiv.org/abs/2009.13384}
+@article{doi:10.1080/01605682.2021.1922098,
+ author = {Michael Bücker and Gero Szepannek and Alicja Gosiewska and Przemyslaw Biecek},
+ title = {Transparency, auditability, and explainability of machine learning models in credit scoring},
+ journal = {Journal of the Operational Research Society},
+ volume = {0},
+ number = {0},
+ pages = {1-21},
+ year  = {2021},
+ publisher = {Taylor & Francis},
+ doi = {10.1080/01605682.2021.1922098},
+ URL = {https://doi.org/10.1080/01605682.2021.1922098},
+ eprint = {https://doi.org/10.1080/01605682.2021.1922098}
 }
+
 ```
 
 ## Data
